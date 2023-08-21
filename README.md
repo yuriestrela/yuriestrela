@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yuriestrella_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gomes-da-silva-estrella-a591b0201/)
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriestrela&show_icons=true&theme=radical)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriestrela&show_icons=true&theme=cobalt)
 
 ## Usual technologies
 
