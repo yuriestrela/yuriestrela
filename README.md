@@ -23,7 +23,6 @@ Sou apaixonado por encontrar bugs antes do usuário 🚫
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img align="center" alt="Gherkin" src="https://img.shields.io/badge/Gherkin-5A4FCF?style=for-the-badge" />
   <img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white" />
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img align="center" alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
